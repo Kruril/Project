@@ -13,9 +13,4 @@ public class MainJeux extends Application {
     public void start(Stage primaryStage) {
 
     }
-
-    @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
-    }
 }
